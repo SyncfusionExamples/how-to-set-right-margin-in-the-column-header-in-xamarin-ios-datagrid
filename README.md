@@ -37,7 +37,6 @@ Refer to the following link for more details:
       
        public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)   
        {                                         
-
       	//Register Syncfusion license
       	Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("YOUR LICENSE KEY");
       
